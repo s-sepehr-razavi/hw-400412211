@@ -11,6 +11,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             feature_1++;
             Console.WriteLine(feature_1);
             int feature_2 = 0;
+            feature_2++;
         }
     }
 }

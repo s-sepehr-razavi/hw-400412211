@@ -6,13 +6,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             int feature_1 = 0;
             feature_1++;
             feature_1++;
             Console.WriteLine(feature_1);
-=======
->>>>>>> main
         }
     }
 }
